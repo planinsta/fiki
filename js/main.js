@@ -8,6 +8,10 @@ jQuery(document).ready(function($) {
 
 	"use strict";
 
+	$(function () {
+		$('[data-toggle="tooltip"]').tooltip()
+	  })
+
 	
 	var siteMenuClone = function() {
 
