@@ -2416,3 +2416,8 @@ Main components
     transform: translateX(0);
   }
 }
+
+.carousel {
+  width:700 !important;
+  height:400px !important;
+}
